@@ -1,0 +1,161 @@
+<div align="center">
+
+# Stack Report
+![](https://img.stackshare.io/repo.svg "repo") [https-github-com-stackshareio/spring-cloud-netflix](https://github.com/https-github-com-stackshareio/spring-cloud-netflix)![](https://img.stackshare.io/public_badge.svg "public")
+<br/><br/>
+|17<br/>Tools used|185<br/>Contributors|11/01/23 <br/>Report generated|12/16/20<br/>Last commit date|
+|------|------|------|------|
+</div>
+
+## <img src='https://img.stackshare.io/languages.svg'/> Languages (4)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/6727/css.png' alt='CSS 3'>
+  <br>
+  <sub><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3">CSS 3</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'>
+  <br>
+  <sub><a href="https://www.java.com">Java</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'>
+  <br>
+  <sub><a href="https://www.ruby-lang.org">Ruby</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'>
+  <br>
+  <sub><a href="https://en.wikipedia.org/wiki/Shell_script">Shell</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (3)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/5807/default_cbd8ab670309059d7e315252d307d409aa40d793.png' alt='Project Reactor'>
+  <br>
+  <sub><a href="https://projectreactor.io/">Project Reactor</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/5494/default_b403ef08976083aea6d4caf5a4f19f3325c751e5.png' alt='Spring Cloud'>
+  <br>
+  <sub><a href="https://spring.io/projects/spring-cloud">Spring Cloud</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2006/spring-framework-project-logo.png' alt='Spring Framework'>
+  <br>
+  <sub><a href="https://spring.io/projects/spring-framework">Spring Framework</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (5)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png' alt='Apache Maven'>
+  <br>
+  <sub><a href="http://maven.apache.org/">Apache Maven</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'>
+  <br>
+  <sub><a href="https://circleci.com/">CircleCI</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
+  <br>
+  <sub><a href="http://git-scm.com/">Git</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'>
+  <br>
+  <sub><a href="https://istio.io/">Istio</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2020/874086.png' alt='JUnit'>
+  <br>
+  <sub><a href="http://junit.org/">JUnit</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src=''/> Hosting (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'>
+  <br>
+  <sub><a href="https://camel.apache.org/">Apache Camel</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src=''/> Software as a Service (SaaS) (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/11236/Group_22__3_.png' alt='Dataform'>
+  <br>
+  <sub><a href="https://dataform.co/">Dataform</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (3)</h2>
+
+## <img width='24' height='24' src='https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png'/> Apache Maven (3)
+
+|NAME|VERSION|SOURCE FILE|
+|------|------|------|
+|[com.fasterxml.jackson.core:jackson-annotations](http://github.com/FasterXML/jackson)|N/A|[spring-cloud-netflix-eureka-client-tls-tests/pom.xml](https://github.com/https-github-com-stackshareio/spring-cloud-netflix/blob/master/spring-cloud-netflix-eureka-client-tls-tests/pom.xml)|
+|[com.fasterxml.jackson.core:jackson-databind](http://github.com/FasterXML/jackson)|N/A|[spring-cloud-netflix-eureka-client-tls-tests/pom.xml](https://github.com/https-github-com-stackshareio/spring-cloud-netflix/blob/master/spring-cloud-netflix-eureka-client-tls-tests/pom.xml)|
+|[com.fasterxml.jackson.dataformat:jackson-dataformat-xml](https://github.com/FasterXML/jackson-dataformat-xml)|N/A|[spring-cloud-netflix-eureka-server/pom.xml](https://github.com/https-github-com-stackshareio/spring-cloud-netflix/blob/master/spring-cloud-netflix-eureka-server/pom.xml)|
+
+<br/>
+<div align='center'>
+
+Generated via [Stack Reports](https://stackshare.io/stack-report)
