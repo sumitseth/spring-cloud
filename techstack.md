@@ -137,7 +137,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src=''/> Hosting (1)
+## <img src='https://img.stackshare.io/hosting.svg'/> Hosting (1)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'>
@@ -150,7 +150,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src=''/> Software as a Service (SaaS) (1)
+## <img src='https://img.stackshare.io/saas.svg'/> Software as a Service (SaaS) (1)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/11236/Group_22__3_.png' alt='Dataform'>
