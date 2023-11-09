@@ -1,8 +1,8 @@
-repo_name: https-github-com-stackshareio/spring-cloud-netflix
-report_id: a8b9e9bc57aa4cd6f965ef93ddc89223
+repo_name: sumitseth/spring-cloud
+report_id: cecaf77bff0b587580e9995f7a393ef9
 repo_type: Public
-timestamp: '2023-11-07T20:30:15+00:00'
-requested_by: marcingrzejszczak
+timestamp: '2023-11-09T02:33:01+00:00'
+requested_by: sumitseth
 provider: github
 branch: master
 detected_tools_count: 13
