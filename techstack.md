@@ -1,7 +1,7 @@
 <!--
 --- Readme.md Snippet without images Start ---
 ## Tech Stack
-https-github-com-stackshareio/spring-cloud-netflix is built on the following main stack:
+sumitseth/spring-cloud is built on the following main stack:
 - [CircleCI](https://circleci.com/) – Continuous Integration
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [Java](https://www.java.com) – Languages
@@ -18,7 +18,7 @@ Full tech stack [here](/techstack.md)
 
 --- Readme.md Snippet with images Start ---
 ## Tech Stack
-https-github-com-stackshareio/spring-cloud-netflix is built on the following main stack:
+sumitseth/spring-cloud is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
@@ -36,10 +36,10 @@ Full tech stack [here](/techstack.md)
 <div align="center">
 
 # Tech Stack File
-![](https://img.stackshare.io/repo.svg "repo") [https-github-com-stackshareio/spring-cloud-netflix](https://github.com/https-github-com-stackshareio/spring-cloud-netflix)![](https://img.stackshare.io/public_badge.svg "public")
+![](https://img.stackshare.io/repo.svg "repo") [sumitseth/spring-cloud](https://github.com/sumitseth/spring-cloud)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|13<br/>Tools used|185<br/>Contributors|11/07/23 <br/>Report generated|12/16/20<br/>Last commit date|
-|------|------|------|------|
+|13<br/>Tools used|11/09/23 <br/>Report generated|
+|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (3)
